@@ -39,11 +39,8 @@
 - [ ] Cadastro de Produtos
 
 - [ ] Realizar compra de Produtos com creditos
-- [ ] 
-- [ ]  Autenticação JWT (Json Web Token)
-- [ ]  
+- [ ]  Autenticação JWT (Json Web Token) 
 - [ ]  Realização de vendas e atualização de créditos
-
 - [ ]  Verificações de erros
 
 
